@@ -1,4 +1,4 @@
-# Visual Studio code keybinds for my Mac - from a former Holy Paladin
+# Visual Studio code keybinds for my Mac - from a former WoW Arena Healer
 
 Still a WIP, thinking bout it before i hit the hay. Planning on making the best ever set of keybinds.
 If i spent 3 days analyzing the anatomy of palms and fingers & keyboard ergonomics for my hpal, i can document at least the binds that i use the most for coding.
