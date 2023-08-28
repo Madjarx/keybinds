@@ -28,30 +28,30 @@ Avoid using `SHIFT` and dont get used to it a lot, it can be used in non-often, 
 
 ### Here's my shot:
 
-Best friend:
-`cmd + shift + p` - your best friend
+### Best friend:
+- `cmd + shift + p` - your best friend
 
-Left / Right Between tabs:
-`cmd + shift + [` - navigate to tab on left
-`cmd + shift + ]` - navigate to tab on right
+### Left / Right Between tabs:
+- `cmd + shift + [` - navigate to tab on left
+- `cmd + shift + ]` - navigate to tab on right
 
-Moving the Tabs around - < > buttons :
-`cmd + ,` - move the editor tab to the left
-`cmd + .` - move the editor tab to the right
+### Moving the Tabs around - < > buttons :
+- `cmd + ,` - move the editor tab to the left
+- `cmd + .` - move the editor tab to the right
 
-Focus editor group on right / left:
+### Focus editor group on right / left:
 (I prolly wont resort to these a lot, mostly my group oriented binds contain `CMD` and `[`&`]` symbols in one form or another)
-`option + tab` - focus next editor group (i can use this one to just cycle through all the groups, i have only two open at all times mostly)
-`shift + option + tab` - focus previous editor group (in case i fuck up)
+- `option + tab` - focus next editor group (i can use this one to just cycle through all the groups, i have only two open at all times mostly)
+- `shift + option + tab` - focus previous editor group (in case i fuck up)
 
-Focusing the groups:
-`CMD + [` - focuses the group on the left
-`CMD + ]` - focuses the group on the right
+### Focusing the groups:
+- `CMD + [` - focuses the group on the left
+- `CMD + ]` - focuses the group on the right
 
-Splitting into groups: 
+### Splitting into groups: 
 I should use `MoveEditor` instead of `SplitEditor` since move one actually moves the tab, i dont need additional 6 keystrokes to close the previous one
-`CTRL + CMD + ]` - move editor into RIGHT group (move it or open in a new group if theres none on that side) 
-`CTRL + CMD + [` - move editor into RIGHT group (move it or open in a new group if theres none on that side) 
+- `CTRL + CMD + ]` - move editor into RIGHT group (move it or open in a new group if theres none on that side) 
+- `CTRL + CMD + [` - move editor into RIGHT group (move it or open in a new group if theres none on that side) 
 
 to be continued...
 
