@@ -45,8 +45,8 @@ Avoid using `SHIFT` and dont get used to it a lot, it can be used in non-often, 
 - `shift + option + tab` - focus previous editor group (in case i fuck up)
 
 ### Focusing the groups:
-- `CMD + [` - focuses the group on the left
-- `CMD + ]` - focuses the group on the right
+- `option + CMD + [` - focuses the group on the left
+- `option + CMD + ]` - focuses the group on the right
 
 ### Splitting into groups: 
 I should use `MoveEditor` instead of `SplitEditor` since move one actually moves the tab, i dont need additional 6 keystrokes to close the previous one
